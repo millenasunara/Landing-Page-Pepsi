@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Pepsi Website Landing Page</title>
+
+    <!-- =-=-=-=-=-= CSS =-=-=-=-=-= -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- =-=-=-=-=-= JS =-=-=-=-=-= -->
+    <script src="script.js"></script>
+
+    <!-- =-=-=-=-=-= ICON FAV =-=-=-=-=-= -->
+    <link rel="shortcut icon" type="icon" href="assets/logo.png">
+
+</head>
+
+<body>
+    <section class="sec">
+
+        <!-- =-=-=-=-=-= HEADER =-=-=-=-=-= -->
+        <header>
+            <a href="#"><img src="./assets/logo.png" class="logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">What's New</a></li>
+                <li><a href="#">Newsletter</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </header>
+
+        <!-- =-=-=-=-=-= MAIN =-=-=-=-=-= -->
+        <div class="content">
+            <div class="textBox">
+                <h2>That's What<br><span>I Like</span></h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua.
+                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                    pariatur.
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+                    est laborum.</p>
+
+                <a href="#">View All Products</a>
+            </div>
+
+            <div class="imgBox">
+                <img src="./assets/pepsi001.png" class="pepsi">
+            </div>
+        </div>
+
+        <!-- =-=-=-=-=-= OTHER PEPSIs =-=-=-=-=-= -->
+        <ul class="thumb">
+            <li><img src="./assets/pepsi001.png"
+                    onclick="imgSlider('./assets/pepsi001.png');changeBgColor('#0062be')"></li>
+            <li><img src="./assets/pepsi002.png"
+                    onclick="imgSlider('./assets/pepsi002.png');changeBgColor('#e60c2c')"></li>
+            <li><img src="./assets/pepsi003.png"
+                    onclick="imgSlider('./assets/pepsi003.png');changeBgColor('#1e1e1e')"></li>
+        </ul>
+
+        <!-- =-=-=-=-=-= SOCIAL =-=-=-=-=-= -->
+        <ul class="sci">
+            <li><a href="#"><img src="./assets/facebook.png"></a></li>
+            <li><a href="#"><img src="./assets/twitter.png"></a></li>
+            <li><a href="#"><img src="./assets/instagram.png"></a></li>
+        </ul>
+
+
+    </section>
+</body>
+
+</html>
