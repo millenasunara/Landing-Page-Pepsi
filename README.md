@@ -1,8 +1,8 @@
 # Landing Page PEPSI
-[![NPM]([https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/millenasunara/Landing-Page-Pepsi/blob/master/LICENSE)) 
+[![NPM]([https://img.shields.io/npm/l/react)](https://github.com/millenasunara/Landing-Page-Pepsi/blob/master/LICENSE)
 
 # Sobre o projeto
-Esse projeto foi desenvolvido com intuito de aprimoramento do html, css e js. 
+Esse projeto foi desenvolvido com intuito de aprimoramento do HTML, CSS e JS. 
 
 ## Layout 
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
