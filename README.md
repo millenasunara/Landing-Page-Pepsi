@@ -1,11 +1,8 @@
-# Landing Page PEPSI
-[![NPM]([https://img.shields.io/npm/l/react)](https://github.com/millenasunara/Landing-Page-Pepsi/blob/master/LICENSE)
-
 # Sobre o projeto
 Esse projeto foi desenvolvido com intuito de aprimoramento do HTML, CSS e JS. 
 
 ## Layout 
-(![read me-img](https://github.com/millenasunara/Landing-Page-Pepsi/assets/148871283/21a0a1cd-d514-4312-9371-8bfc03c03193)
+![read me-img](https://github.com/millenasunara/Landing-Page-Pepsi/assets/148871283/21a0a1cd-d514-4312-9371-8bfc03c03193)
 
 # Tecnologias utilizadas
 - HTML / CSS / JS
